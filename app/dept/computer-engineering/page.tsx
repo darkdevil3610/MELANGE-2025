@@ -13,7 +13,7 @@ const ComputerEngineering = () => {
       description: "A Team consists of 4 Members  , Reg fee-100(25/person) First Prize - Fullkuzhimandi , Second Prize - rs 400",
       date: "Feb 20, 2025",
       imageUrl: "/900.jpg",
-      registerUrl: "",
+      registerUrl: "https://forms.gle/bMnkvqxnshDmQcaj9",
 
     },
     {
@@ -21,7 +21,7 @@ const ComputerEngineering = () => {
       description: "A Team consists of 2 Members ,Reg fee - 40(20/person) , First - full kuzhimanthi , Second- gifthamper ",
       date: "Feb 20, 2025",
       imageUrl: "/900.jpg",
-      registerUrl: "",
+      registerUrl: "https://forms.gle/UqdnQP7RZ2xqdGF5A",
     },
     {
       eventname: "Code debugging ",
@@ -35,7 +35,7 @@ const ComputerEngineering = () => {
       description: "A Team Consists of 4 Members , Reg Fee 40(10/person) , Prize - Surprise ",
       date: "Feb 20, 2025",
       imageUrl: "/900.jpg",
-      registerUrl: "#" ,
+      registerUrl: "https://forms.gle/p93A1RhGbRShxv2r7" ,
     },
     {
       eventname: "Logical Game Zone",
